@@ -4,7 +4,7 @@ This is my public portfolio for Telling Stories with Data at CMU!
 # About me
 
 Hello. I am a master's degree candidate at CMU. 
-- Program Major: Master of Information Systems Management (12 Month)
+- Program Major: Master of Information Systems Management (12 Months)
 - From / Family: Korea, Seoul / Married – spouse, daughter, son
 
   ![alt text](http://kibokk.github.io/portfolio/Picture1.png)
@@ -14,7 +14,7 @@ Hello. I am a master's degree candidate at CMU.
 
 # What I hope to learn
 
-My future career trajectory is a IT project manager for Banking software / Digital transformation project, but finally a faculty with working experience.
+My future career trajectory is to be an IT project manager for a Banking software / Digital transformation project, but finally, a faculty with working experience.
 - Project management skills
 - Effective strategies for how visualizing data
 - Analytic skills for managing and developing IT systems
