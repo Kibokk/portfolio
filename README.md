@@ -9,7 +9,7 @@ Hello. I am a master's degree candidate at CMU.
 
   ![alt text](http://kibokk.github.io/portfolio/Picture1.png)
 - LinkedIn: www.linkedin.com/in/kibok-kim-582b73232
-- Traveling in 22 - 23: [Done] New York, Washington D.C, Orlando(Disney World!), [Plan] San Francisco, Los Angeles, Boston, Miami
+- Traveling in 22-23: [Done] New York, Washington D.C, Orlando(Disney World!), [Plan] San Francisco, Los Angeles, Boston, Miami
 - Cooking: Korean Style Food (galbi, samgyetang, korean pancake with Kimchi or Seafood)
 
 # What I hope to learn
