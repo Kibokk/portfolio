@@ -1,2 +1,2 @@
 # portfolio
-CMU Course No 94-870 -Fall 2022
+This is my public portfolio for Telling Stories with Data at CMU!
