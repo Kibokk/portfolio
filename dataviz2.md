@@ -1,7 +1,7 @@
 
 [< Go back to Portfolio](https://kibokk.github.io/portfolio/)
 
-## Features
+## Analysis Report
 According to General government debt data from OECD(Organisation for Economic Co-operation and Development), some countries, such as Japan, Greece and Italy, have very high national debt-to-GDP ratios. Japan's debt-to-GDP ratio is about three times higher than the OECD average, and the figure has been continuously increasing since 1996. However, it is not likely to become serious situation because most of Japan debt holders are Bank of Japan(43.42%) and Japanese banks and insurers(33.99%). Even though it looks like government debt, it won’t ever need to default on debt because Japanese government can simply print more currency to pay it back.
 
 ## 1. Debt-to-GDP ratio
