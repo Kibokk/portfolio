@@ -10,7 +10,7 @@ According to General government debt data from OECD(Organisation for Economic Co
 ## 2. Debt-to-GDP ratio Trends by Country
 <div class="flourish-embed flourish-chart" data-src="visualisation/11721046"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-## 3. Japan and some high debt-to-GDP ratio countries
+## 3. High debt-to-GDP ratio countries
 <div class="flourish-embed flourish-chart" data-src="visualisation/11722177"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## 4.Reference
