@@ -13,6 +13,8 @@
 # Step three: sketch out a solution
 ![alt text](https://kibokk.github.io/portfolio/first sketch.jpg)
 
+# Step four: Test the solution
+
 First Feedback (Student 1):
 ```sh
 1. Preference : Option 1, 3 
@@ -33,3 +35,8 @@ Second Feedback (My wife):
 5. Option 2, each line seems to be connected and have corelation with one another. <Not a good choice>
 6. Legends are so difficult to understand so more explanation should be added.
 ```
+
+# Step five: Build your solution
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/11807672"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
