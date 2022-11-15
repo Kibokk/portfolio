@@ -1,5 +1,6 @@
 # Step one: find a data visualization (with data you can use!)
 ![alt text](https://www.kff.org/wp-content/uploads/2021/11/monitor_2_nov8.png)
+Source : https://www.kff.org/coronavirus-covid-19/poll-finding/kff-covid-19-vaccine-monitor-media-and-misinformation/
 
 # Step two: critique the data visualization
 - Usefulness 
