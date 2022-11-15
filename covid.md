@@ -11,5 +11,5 @@
 - Engagement
 
 # Step three: sketch out a solution
-![alt text](https://kibokk.github.io/portfolio/first sketch.jpeg)
+![alt text](https://kibokk.github.io/portfolio/first sketch.jpg)
 
