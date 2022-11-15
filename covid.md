@@ -16,7 +16,7 @@ Source : https://www.kff.org/coronavirus-covid-19/poll-finding/kff-covid-19-vacc
 
 # Step four: Test the solution
 
-First Feedback (Student 1):
+First Feedback (in late 20s):
 ```sh
 1. Preference : Option 1, 3 
 2. Color (Blue, Red) is too strong to distinguish which information is more important. 
@@ -26,7 +26,7 @@ First Feedback (Student 1):
 6. It is difficult to know what the order on the chart was based on.
 ```
 
-Second Feedback (My wife):
+Second Feedback (in late 30s):
 ```sh
 1. Preference : Option 1
 2. I prefer to see the option 1 chart because I get familiar with this type of charts rather than other style.
