@@ -27,8 +27,9 @@ Second Feedback (My wife):
 ```sh
 1. Preference : Option 1
 2. I prefer to see the option 1 chart because I get familiar with this type of charts rather than other style.
-3. It seemed so packed if you want to draw charts with the same number of sources. (column bar will be so narrow and the name of source cannot show well.)
-4. This chart has an order by None (blue) part.
+3. It seemed so packed if you want to draw charts with the same number of sources. 
+   (column bar will be so narrow and the name of source cannot show well.)
+4. This chart looks that it has an order by None (blue) part.
 5. Option 2, each line seems to be connected and have corelation with one another. <Not a good choice>
 6. Legends are so difficult to understand so more explanation should be added.
 ```
