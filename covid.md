@@ -61,5 +61,11 @@ Third Feedback (during the class)
 Change colors and adopt new format to grab the audience's attention. <br>
 Help audiences to recognize which News Sources are more biased or deliver the misinformation more. <br><br>
 
+## Analysis Report
+Audience can believe misinformation from news sources because they think news sources are neutral and based on facts. However, news conveys information from different perspectives, and sometimes misleading or distorted information. There is a political preference for each news sources. Moreover, in some cases, the purpose of the news is not to deliver accurate information, and it induces continuous subscription by producing information from the perspective that the main subscriber wants. From this chart, three news sources (Fox, Newsmax, One america news) seem to broadcast more false information rather then other news sources. They are very likely to mislead their audiences. In contrast, CNN and NPR deliver facts based information about Covid. It is very difficult to say they do not mislead readers at any points, but their audiences tend to be well informed about Covid-19. I changed scales from neutral to very likely (5 scales). Neutral and facted-based information is what audiences expects from news sources. I hesitated to put middle scale "fairly" but readers who trust CNN and NPR still have many false information. From this chart, I hope readers will have time to fact-check information from news sources they trust or compare how different each new sources handle the same event or content differently. In addition, those who have a negative view of the government's response to Covid-19 due to Fox, or those who are skeptical about vaccines, etc., will once again compare the contents presented in various media.
+
+
+<br><br>
+
 <div class="flourish-embed" data-src="visualisation/11835673"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
