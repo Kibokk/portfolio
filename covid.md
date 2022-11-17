@@ -41,6 +41,7 @@ With feedbacks, I revised the chart
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11807672"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+
 Third Feedback (during the class)
 ```sh
 1. It is still difficult to find which new source is biased most.
