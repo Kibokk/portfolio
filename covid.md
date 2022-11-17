@@ -53,10 +53,10 @@ Third Feedback (during the class)
 # Step five: Build your solution
 
 
-<My suggestion>
+## My suggestion
    
-Change colors and adopt new format to grab the audience's attention.
-Help audiences to recognize which News Sources are more biased or deliver the misinformation more.
+Change colors and adopt new format to grab the audience's attention. <br>
+Help audiences to recognize which News Sources are more biased or deliver the misinformation more. <br><br>
 
 <div class="flourish-embed" data-src="visualisation/11835673"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
