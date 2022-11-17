@@ -24,7 +24,7 @@ My future career trajectory is to be an IT project manager for a Banking softwar
 
 # Portfolio
 
-Here's where all my cool work will go. You cannot hire me because I am reserved.
+Here's where all my cool work will go.
 
 [1. Assignment: Visualizing government debt (11/07/2022)](/dataviz2.md)
 [2. Assignment: Critique by Design (11/16/2022)](/covid.md) 
