@@ -3,13 +3,13 @@
 Source : https://www.kff.org/coronavirus-covid-19/poll-finding/kff-covid-19-vaccine-monitor-media-and-misinformation/
 
 # Step two: critique the data visualization
-- Usefulness 
-- Completeness
-- Perceptibility
-- Truthfulness
-- Intuitiveness
-- Aesthetics
-- Engagement
+- Usefulness : (8/10) It shows which news sources provide more biased or false information to audiences.
+- Completeness : (6/10) It has minor errors (ex: MSNBC's total percentage is not 100%) and it misled audiences think 1 to 3 false of statements is positive.
+- Perceptibility : (6/10) We cannot interpret charts without looking it closer and its sorting order is quite difficult to recognize.
+- Truthfulness : (8/10) It is based on a survey and back datas.
+- Intuitiveness : (5/10) It is difficult to understand what charts want to show before we fully read the text of charts.
+- Aesthetics : (7/10) This chart looks good to provide the information to audience.
+- Engagement : (8/10) It is fully engaged to what the author wants to say.
 
 # Step three: sketch out a solution
 ![alt text](https://kibokk.github.io/portfolio/first sketch.jpg)
@@ -37,7 +37,19 @@ Second Feedback (in late 30s):
 6. Legends are so difficult to understand so more explanation should be added.
 ```
 
-# Step five: Build your solution
+With feedbacks, I revised the chart
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11807672"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+Third Feedback (during the class)
+```sh
+1. It is still difficult to find which new source is biased most.
+2. Stack barcharts and the other candidates are what we are so familiar with, so it is likely to be threadbare.
+3. Try to find the chart you do not use often and translate the chart with your own words.
+```
+
+
+# Step five: Build your solution
+
+<div class="flourish-embed" data-src="visualisation/11835673"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
