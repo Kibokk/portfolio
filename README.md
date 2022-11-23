@@ -28,4 +28,6 @@ Here's where all my cool work will go.
 
 [1. Assignment: Visualizing government debt (11/07/2022)](/dataviz2.md)
 
-[2. Assignment: Critique by Design (11/16/2022)](/covid.md) 
+[2. Assignment: Critique by Design (11/16/2022)](/covid.md)
+
+[Part 1. Final Project (11/23/2022)](/finalproject.md)
