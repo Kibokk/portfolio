@@ -27,18 +27,12 @@ They admitted that there was a mistake but I noticed that copyright issues were 
 
 I will refer to the data from sources below :
 
-- [Penalty of copyright violation] COPYRIGHT INFRINGEMENT -- PENALTIES -- 17 U.S.C. 506(A) AND 18 U.S.C 2319
-(https://www.justice.gov/archives/jm/criminal-resource-manual-1852-copyright-infringement-penalties-17-usc-506a-and-18-usc-2319#:~:text=%C2%A7%20506(a)%20by%20the,up%20to%20%24250%2C000%2C%20or%20both.)
-- [Type and relevant contents for piracy] Online Piracy in Numbers – Facts and Statistics [Infographic]
-(https://www.go-globe.com/online-piracy/)
-- [General statistics for piracy] Piracy Is Back: Piracy Statistics for 2022
-(https://dataprot.net/statistics/piracy-statistics/)
-- [Using pirate contents on the web will increase the risk of malware infection] Most common delivery methods and cybersecurity vulnerabilities causing ransomware infections according to MSPs worldwide as of 2020
-(https://www.statista.com/statistics/700965/leading-cause-of-ransomware-infection/)
-- [Data for what piracy affect on the economy] IMPACTS OF DIGITAL VIDEO PIRACY ON THE U.S. ECONOMY (NERA Economic Consulting)
-(https://www.theglobalipcenter.com/wp-content/uploads/2019/06/Digital-Video-Piracy.pdf)
-- [More ideas about digital piracy] Digital Piracy (Tolulope Joshua Ashaolu)
-(https://www.researchgate.net/publication/354975140_Digital_Piracy)
+- [For Penalty of copyright violation : COPYRIGHT INFRINGEMENT -- PENALTIES -- 17 U.S.C. 506(A) AND 18 U.S.C 2319](https://www.justice.gov/archives/jm/criminal-resource-manual-1852-copyright-infringement-penalties-17-usc-506a-and-18-usc-2319#:~:text=%C2%A7%20506(a)%20by%20the,up%20to%20%24250%2C000%2C%20or%20both.)
+- [For Type and relevant contents for piracy : Online Piracy in Numbers – Facts and Statistics Infographic](https://www.go-globe.com/online-piracy/)
+- [For General statistics for piracy : Piracy Is Back: Piracy Statistics for 2022](https://dataprot.net/statistics/piracy-statistics/)
+- [For explantion that Usage of pirate contents on the web will increase the risk of malware infection : Most common delivery methods and cybersecurity vulnerabilities causing ransomware infections according to MSPs worldwide as of 2020](https://www.statista.com/statistics/700965/leading-cause-of-ransomware-infection/)
+- [For data of what piracy affect on the economy : IMPACTS OF DIGITAL VIDEO PIRACY ON THE U.S. ECONOMY (NERA Economic Consulting)](https://www.theglobalipcenter.com/wp-content/uploads/2019/06/Digital-Video-Piracy.pdf)
+- [For More ideas about digital piracy : Digital Piracy (Tolulope Joshua Ashaolu)](https://www.researchgate.net/publication/354975140_Digital_Piracy)
 
 
 # Method and medium
