@@ -34,7 +34,7 @@ e. changes you plan on implementing to your visualizations next week to address 
 - People are more interested in the actual case, so look for more relevant data
 
 # User Personas
-![alt text](https://kibokk.github.io/portfolio/persona.jpeg)
+![alt text](https://kibokk.github.io/portfolio/persona.jpg)
 
 * moodboard was created in Part I: Final project
 
