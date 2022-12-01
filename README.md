@@ -31,3 +31,6 @@ Here's where all my cool work will go.
 [2. Assignment: Critique by Design (11/16/2022)](/covid.md)
 
 [Part 1. Final Project (11/23/2022)](/finalproject.md)
+
+[Part 2. Final Project (11/30/2022)](/finalproject2.md)
+
