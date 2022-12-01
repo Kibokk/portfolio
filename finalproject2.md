@@ -33,6 +33,11 @@ e. changes you plan on implementing to your visualizations next week to address 
 - Learn how to use Tableau and Flourish to change the type of a chart that received this week's feedback
 - People are more interested in the actual case, so look for more relevant data
 
+# User Personas
+![alt text](https://kibokk.github.io/portfolio/persona.jpeg)
+
+* moodboard was created in Part I: Final project
+
 # Draft charts
 
 Flourish
