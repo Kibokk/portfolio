@@ -39,8 +39,8 @@ Flourish
 
 <div class="flourish-embed" data-src="visualisation/12013551"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/12012992"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-<div class="flourish-embed flourish-hierarchy" data-src="visualisation/12012992"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-<div class="flourish-embed flourish-hierarchy" data-src="visualisation/12012992"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/12013422"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-chart" data-src="visualisation/12014636"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 Tableau
 
