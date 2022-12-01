@@ -43,6 +43,7 @@ Flourish
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/12012992"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 Tableau
+
 ![alt text](https://kibokk.github.io/portfolio/case_trial.png)
 
 
