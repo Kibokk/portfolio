@@ -27,20 +27,27 @@ User Personas
 
 
 **c. your interview script**
+
  > Goal 1. Check how well people understand about the copyright and offer the famous copyright violation cases
- - Question. Can you explain about copyright and what can be happen if you infringe copyright law?
+ > - Question. Can you explain about copyright and what can be happen if you infringe copyright law?
+ >
  > Goal 2. Make audience think that we can easily infringe the copyright law
- - Question. Have you ever done anything that violates copyright?
+ > - Question. Have you ever done anything that violates copyright?
+ > 
  > Goal 3. Figure out what people expect to see in my presentation
- - Question. Dose this presentation show you What you might have to know about copyright?
+ > - Question. Dose this presentation show you What you might have to know about copyright?
+ > 
  > Goal 4. Check whether audience can be interested in my presentation topic
- - Question. Are you interested in famous copyright trial cases or punishment that I explained?
+ > - Question. Are you interested in famous copyright trial cases or punishment that I explained?
+ > 
  > Goal 5. Evaluate the comprehension of my charts for the presentation
- - Qustion. What can you catch from charts that I provide?
+ > - Qustion. What can you catch from charts that I provide?
+ > 
  > Goal 6. Get some tips to improve contents and structure for the presentation
- - Question. How I can improve my final presentation better?
+ > - Question. How I can improve my final presentation better?
+ > 
  > Goal 7. Check whether the storyboard for the presentation will be effective on the Shorthand
- - Question. What is your suggestion for Shorthand draft?
+ > - Question. What is your suggestion for Shorthand draft?
 
 
 **d. the findings from your interview**
