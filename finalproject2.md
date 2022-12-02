@@ -9,6 +9,7 @@ Here is the preview of my Storyboard : https://preview.shorthand.com/nyjxumz621n
 # User research and interviews
 
 **a. the target audience you hope to reach with your story**
+ 
  |Target Audiences|
  |----------------------------------------------------------------------------|
  |1. University students who try to find free movies and tv shows on the internet|
@@ -42,7 +43,9 @@ Here is the preview of my Storyboard : https://preview.shorthand.com/nyjxumz621n
 
 
 **d. the findings from your interview**
-  <5 star evaluation first>
+
+ <5 star evaluation first>
+ 
  |3 people (age) | house wife(36)       | B: CMU students(29) | C: CMU students(31)|
  |--------------|----------------------|-----------------------|----------------------|
  |copyright understanding| ★★☆☆☆ | ★★★☆☆ | ★★★★☆ |
