@@ -55,7 +55,7 @@ Here is the preview of my Storyboard : https://preview.shorthand.com/nyjxumz621n
 
  - Interview Opinion (detail)
  1. All three knew about copyright at a very broad level, and 
- 2. for detailed copyright violation cases, it was difficult to distinguish whether the cases actually violated the law. 
+ 2. For detailed copyright violation cases, it was difficult to distinguish whether the cases actually violated the law. 
  3. Most were very curious about how many violations occurred per year and what the average fine was. 
  4. Even if it was not through an easily explained case, they confessed that there was actually an experience of intentionally violating copyright.
  5. And they tended to think that such a violation would not be a big problem. 
