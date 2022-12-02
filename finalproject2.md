@@ -1,6 +1,6 @@
 [< Go back to Portfolio](https://kibokk.github.io/portfolio/)
 
-# Shorthand
+# Shorthand(Storyboard)
 In this week, I created new story draft for my final presentation and tried to set up the table of contents, organization for the storyboard, and the location of the charts. I was able to learn how to use the storyboard and receive opinions and feedback on the presentation in front of prospective readers based on the Draft. However, since it is my first time to use Storyboard, it might take a more time than I expected to utilize the tool well.
 
 Here is the preview of my Storyboard : https://preview.shorthand.com/nyjxumz621nmvDZq
@@ -10,6 +10,9 @@ Here is the preview of my Storyboard : https://preview.shorthand.com/nyjxumz621n
 a. the target audience you hope to reach with your story
  1. University students who try to find free movies and tv shows on the internet
  2. Parents who have teens or children using SNS like Tiktok and Instagram
+ 3. Mostly people who think copyright violation will not be a big deal because they have never seen people who got a trouble for that.
+ 4. User Personas
+![alt text](https://kibokk.github.io/portfolio/persona.png)
  
 b. your approach to identifying representative individuals to interview
  1. In-person meeting
@@ -33,8 +36,6 @@ e. changes you plan on implementing to your visualizations next week to address 
 - Learn how to use Tableau and Flourish to change the type of a chart that received this week's feedback
 - People are more interested in the actual case, so look for more relevant data
 
-# User Personas
-![alt text](https://kibokk.github.io/portfolio/persona.jpg)
 
 * moodboard was created in Part I: Final project
 
