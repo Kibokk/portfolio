@@ -7,6 +7,7 @@ Here is the preview of my Storyboard : https://preview.shorthand.com/nyjxumz621n
 ![alt text](https://kibokk.github.io/portfolio/what-happens-if_facebook-cover.jpeg)
 
 # User research and interviews
+
 **a. the target audience you hope to reach with your story**
  |Target Audiences|
  |----------------------------------------------------------------------------|
@@ -21,7 +22,8 @@ Here is the preview of my Storyboard : https://preview.shorthand.com/nyjxumz621n
  1. In-person meeting : present charts and explain storylines. get a direct feedback (one person)
  2. Online chat(whatsapp & zoom) with script : indirect explain. offerd link and charts first without enough explanation
  3. Feedback during the lecture : critique exercise and get a lot advices for the final presentation
- 
+
+
 **c. your interview script**
  > Goal 1. Check how well people understand about the copyright and offer the famous copyright violation cases
  - Question. Can you explain about copyright and what can be happen if you infringe copyright law?
@@ -37,6 +39,7 @@ Here is the preview of my Storyboard : https://preview.shorthand.com/nyjxumz621n
  - Question. How I can improve my final presentation better?
  > Goal 7. Check whether the storyboard for the presentation will be effective on the Shorthand
  - Question. What is your suggestion for Shorthand draft?
+
 
 **d. the findings from your interview**
   <5 star evaluation first>
@@ -66,27 +69,34 @@ Here is the preview of my Storyboard : https://preview.shorthand.com/nyjxumz621n
  13. As for Shorthand, they were excited about Shorthand and the fact that there is such a tool that can easily create a web page. 
  14. However, I received feedback that the composition of my final presentaion seems a bit difficult to see the chart, so I think I need to think about it.
 
-<During
+Class Feedback 
+```sh
+1. It is still difficult to find what audience should take an action for after the presentation.
+2. Charts in Shorthand are not clear to see during the presentation.
+3. It will be so funny if you infringe the copyright for this presentation.
+```
+
 
 **e. changes you plan on implementing to your visualizations next week to address the issues identified.**
-- Detailed storyline and decide each sections order to comprehend audience effectively
+- Detailed storyline and decide each sections' order to comprehend audience effectively
 - Learn how to use Tableau and Flourish to change the type of a chart that received this week's feedback
 - People are more interested in the actual case, so look for more relevant data and cases
-- 
+- Find other ways that chart shoule be shown well in Shorthand
+- More data needed because some datas only have charts without backdatas but audience says that information is very important for the presentation.
 
 
-* moodboard was created in Part I: Final project
+**moodboard was created in Part I: Final project
 
 # Draft charts
 
-Flourish
+With Flourish
 
 <div class="flourish-embed" data-src="visualisation/12013551"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/12012992"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/12013422"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <div class="flourish-embed flourish-chart" data-src="visualisation/12014636"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-Tableau
+With Tableau
 
 ![alt text](https://kibokk.github.io/portfolio/case_trial.png)
 
