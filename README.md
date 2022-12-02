@@ -32,5 +32,5 @@ Here's where all my cool work will go.
 
 [Part 1. Final Project (11/23/2022)](/finalproject.md)
 
-[Part 2. Final Project (11/30/2022)](https://kibokk.github.io/portfolio/finalproject2.html)
+[Part 2. Final Project (11/30/2022)](/finalproject.md)
 
