@@ -15,7 +15,7 @@ Here is the preview of my Storyboard : https://preview.shorthand.com/nyjxumz621n
  |2. Parents who have teens or children using SNS like Tiktok and Instagram|
  |3. Mostly people who think copyright violation will not be a big deal because they have never seen people who got a trouble for that|  
  |4. User Personas|
- |<center><img src="https://kibokk.github.io/portfolio/persona.png" width=90% height=90%></center>|
+ ![alt text](https://kibokk.github.io/portfolio/persona.png)
 
  
 **b. your approach to identifying representative individuals to interview**
