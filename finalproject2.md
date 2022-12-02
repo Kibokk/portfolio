@@ -12,11 +12,9 @@ Here is the preview of my Storyboard : https://preview.shorthand.com/nyjxumz621n
  | Target Audiences | 
  | ---------------- |
 
- |Target Audiences|
- |----------------------------------------------------------------------------|
- |1. University students who try to find free movies and tv shows on the internet|
- |2. Parents who have teens or children using SNS like Tiktok and Instagram|
- |3. Mostly people who think copyright violation will not be a big deal because they have never seen people who got a trouble for that|  
+ 1. University students who try to find free movies and tv shows on the internet
+ 2. Parents who have teens or children using SNS like Tiktok and Instagram
+ 3. Mostly people who think copyright violation will not be a big deal because they have never seen people who got a trouble for that
  
  User Personas
  ![alt text](https://kibokk.github.io/portfolio/persona.png)
