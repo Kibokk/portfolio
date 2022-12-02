@@ -9,7 +9,9 @@ Here is the preview of my Storyboard : https://preview.shorthand.com/nyjxumz621n
 # User research and interviews
 
 **a. the target audience you hope to reach with your story**
- 
+ | Target Audiences | 
+ | ---------------- |
+
  |Target Audiences|
  |----------------------------------------------------------------------------|
  |1. University students who try to find free movies and tv shows on the internet|
