@@ -9,6 +9,7 @@ Here is the preview of my Storyboard : https://preview.shorthand.com/nyjxumz621n
 # User research and interviews
 
 **a. the target audience you hope to reach with your story**
+
  | Target Audiences | 
  | ---------------- |
 
@@ -16,8 +17,10 @@ Here is the preview of my Storyboard : https://preview.shorthand.com/nyjxumz621n
  2. Parents who have teens or children using SNS like Tiktok and Instagram
  3. Mostly people who think copyright violation will not be a big deal because they have never seen people who got a trouble for that
  
- User Personas
- ![alt text](https://kibokk.github.io/portfolio/persona.png)
+ |   User Personas  | 
+ | ---------------- |
+
+![alt text](https://kibokk.github.io/portfolio/persona.png)
 
  
 **b. your approach to identifying representative individuals to interview**
