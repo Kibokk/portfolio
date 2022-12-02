@@ -71,9 +71,9 @@ Here is the preview of my Storyboard : https://preview.shorthand.com/nyjxumz621n
 
 Class Feedback 
 ```sh
-1. It is still difficult to find what audience should take an action for after the presentation.
-2. Charts in Shorthand are not clear to see during the presentation.
-3. It will be so funny if you infringe the copyright for this presentation.
+1. It is still difficult to find what audience should take into an action after the presentation.
+2. Charts on Shorthand are not clear to see during the presentation.
+3. You should not infringe the copyright with this presentation.
 ```
 
 
@@ -91,12 +91,14 @@ Class Feedback
 
 With Flourish
 
+
 <div class="flourish-embed" data-src="visualisation/12013551"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/12012992"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/12013422"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <div class="flourish-embed flourish-chart" data-src="visualisation/12014636"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 With Tableau
+
 
 ![alt text](https://kibokk.github.io/portfolio/case_trial.png)
 
