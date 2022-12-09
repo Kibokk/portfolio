@@ -1,6 +1,14 @@
 
 [< Go back to Portfolio](https://kibokk.github.io/portfolio/)
 
+[Part 1. Final Project (11/23/2022)](/finalproject.md)
+
+[Part 2. Final Project (11/30/2022)](/finalproject2.md)
+
+
+
+# Part 3. Final Project (12/09/2022)
+
 
 # Motivation & Self Assessment
 
