@@ -34,3 +34,5 @@ Here's where all my cool work will go.
 
 [Part 2. Final Project (11/30/2022)](/finalproject2.md)
 
+[Part 3. Final Project (12/09/2022)](/finalproject3.md)
+
