@@ -22,6 +22,6 @@ There were several adjustments after the final presentation. First, I put my exp
 
 # Final Deliverables
 
-![alt text][https://kibokk.github.io/portfolio/have-you-ever-i_linkedin-cover.jpeg](https://carnegiemellon.shorthandstories.com/3cc105d6-2981-4923-a9d3-7360a5638f48/index.html)
+![alt text](https://kibokk.github.io/portfolio/have-you-ever-i_linkedin-cover.jpeg)
 
 [Go to Shorthand](https://carnegiemellon.shorthandstories.com/3cc105d6-2981-4923-a9d3-7360a5638f48/index.html)
