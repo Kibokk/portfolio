@@ -22,6 +22,5 @@ There were several adjustments after the final presentation. First, I put my exp
 
 # Next Step
 
-Still, it is very difficult to keep copyright law and understand it fully. The most important attitude toward this topic is always to have them in your mind and way on your work.
-
+<script src="https://carnegiemellon.shorthandstories.com/3cc105d6-2981-4923-a9d3-7360a5638f48/embed.js"></script>
 
