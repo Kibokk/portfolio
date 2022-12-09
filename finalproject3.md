@@ -20,7 +20,7 @@ However, looking back at the presentation I made, it was a bit insufficient to d
 
 There were several adjustments after the final presentation. First, I put my experience on the Shorthand. I checked all images and texts that I made to see if there was any plagiarism or copyright violation. Ironically, many audiences who gave me feedback anticipated that my infringement of copyright violation happened during the presentation. I tried to choose images from Shorthand provided as copyright-free images. And I used images by linking them directly from the source rather than downloading and editing them. Putting the reference and resource indication underneath the images, I try to clearly show that these contents have an original author and creator.
 
-# Next Step
+# Final Deliverables
 
-<script src="https://carnegiemellon.shorthandstories.com/3cc105d6-2981-4923-a9d3-7360a5638f48/embed.js"></script>
-
+![alt text](https://kibokk.github.io/portfolio/have-you-ever-i_linkedin-cover.jpeg.jpeg)
+https://carnegiemellon.shorthandstories.com/3cc105d6-2981-4923-a9d3-7360a5638f48/index.html
