@@ -1,5 +1,14 @@
 [< Go back to Portfolio](https://kibokk.github.io/portfolio/)
 
+[Part 1. Final Project (11/23/2022)](/finalproject.md)
+
+[Part 3. Final Project (12/09/2022)](/finalproject3.md)
+
+
+# Part 2. Final Project (11/30/2022)
+
+
+
 # Shorthand(Storyboard)
 In this week, I created new story draft for my final presentation and tried to set up the table of contents, organization for the storyboard, and the location of the charts. I was able to learn how to use the storyboard and receive opinions and feedback on the presentation in front of prospective readers based on the Draft. However, since it is my first time to use Storyboard, it might take a more time than I expected to utilize the tool well.
 
